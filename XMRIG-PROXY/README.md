@@ -11,4 +11,5 @@ Added possibility to make a comments in a configuration file.
 Added logging. You can enable or disable it, set path, filename, etc...
 
 Don't forget to change a configuration file.
+
 ![xmrig-proxy.cmd](https://github.com/equuleus/XMRIG/raw/main/XMRIG-PROXY/screenshots/xmrig-proxy.cmd.png "xmrig-proxy.cmd")
